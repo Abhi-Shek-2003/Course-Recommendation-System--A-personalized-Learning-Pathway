@@ -1,4 +1,4 @@
-# CourseCompass: AI-Powered Elective Course Recommendation System
+# Course Recommendation System
 
 A sophisticated recommendation system that helps students choose elective courses based on their academic performance and peer learning patterns. The system employs both content-based and collaborative filtering approaches to provide personalized course recommendations.
 
